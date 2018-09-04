@@ -1,0 +1,167 @@
+/* 180903 gd */
+/* Clear page defaults */
+article, aside, footer, header, main, nav,  section  {display: block;
+}
+
+/* Clear default values */
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #ccff99;
+  Font-Size: 25px; 
+  font-family: Verdana, Arial, Geneva, Arial Black;
+  }
+  
+/* Set page border */
+body {
+  border: 10px solid #13b5ea;
+  margin-top: 0;
+  }
+
+h1{
+  font-size: 2em;
+}
+h2 {
+  font-size: 1.5em;
+}
+h5 {
+  font-size: 12px;
+}
+
+/* Set border for Essential Tremors heading */
+#divessentialtremors {
+  border: 05px solid #ff0000;
+  width: 400px;
+  width: 80%;
+  text-align: center;
+  margin: auto;
+  padding-bottom: 10px;
+}
+
+/* Contents of line1 and line2 i Essential Tremors */
+#et {
+  font-size: 1.3em;
+  font-size: 2em;
+}
+
+/* Set happy face size and location */
+#happyfaceleft {
+  width: 65px;
+  margin-right: 4em;
+  margin-right: 7em;
+}
+
+/* Set happy face size and location */
+#happyfaceright {
+  width: 65px;
+  margin-left: 4em;
+  margin-left: 7em;
+}
+
+/* Set happy face and help location to center*/
+#divhappyhelp {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Set IEFT logo and location */
+#divietflogo {
+  text-align: center;
+}
+
+
+
+
+#message1 {
+  font-size: 30px;
+  text-align: center;
+  padding: 0;
+  width: 600px;
+  margin: auto;
+  text-align: center;
+ }
+
+/* Next meeting s/b red */
+ #message2, #message3, #future {
+   line-height: 1.5;
+   color: #000099;
+   font-weight: bold; 
+   margin: auto;
+   text-align: center;
+ }
+ 
+#message3 {
+   line-height: 1.5;
+   color: #000000;
+   font-weight: bold; 
+   margin: auto;
+   text-align: center;
+ }
+ 
+
+
+
+
+
+
+#discussionsharing {
+  width: 500px;
+  width: 600px;
+  width: 650px;
+  border: 05px solid #8dc63f;
+  padding: 05px;
+  border-radius: 10em / 10em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#divmaterials {
+  padding: 05px;
+  /* width: 350px; */
+  height: 65px;
+  /* border: 05px solid #8dc63f; */
+  margin: auto;
+}
+
+#materials1, #materials2 {
+    text-align: center;
+}
+
+
+#materials1 {
+    width: 275px;
+    margin: auto;
+}
+#materials2 {
+  width: 390px;
+  margin: auto;
+  
+}
+
+#divcontacts {
+  border: 10px solid #ff0000;
+  padding: 05px;
+  width: 550px;
+  margin: auto;
+  }
+
+
+#contact1, #contact2 {
+  margin-left: 10px;
+}
+
+#ident1, #ident2 {
+  margin-left: 50px;
+}
+
+
+a:link {
+  color: black;
+}
+
+a:hover {
+  color: #13b5ea;
+}
